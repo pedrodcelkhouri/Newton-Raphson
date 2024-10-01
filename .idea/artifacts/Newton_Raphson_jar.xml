@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Newton-Raphson:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Newton_Raphson_jar</output-path>
+    <root id="archive" name="Newton-Raphson.jar">
+      <element id="module-output" name="Newton-Raphson" />
+    </root>
+  </artifact>
+</component>
